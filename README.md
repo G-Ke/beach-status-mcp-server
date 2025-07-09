@@ -23,3 +23,29 @@
 - https://beacon.epa.gov/ords/beacon2/r/beacon_apex/beacon2/report-page?debug=YES
 - https://api.marea.ooo/doc/v2#overview
 - https://nominatim.org/release-docs/develop/api/Search/
+
+## Packages and Tools
+
+### uv
+
+Python package and project manager.
+
+https://docs.astral.sh/uv
+
+https://github.com/astral-sh/uv
+
+### FastMCP
+
+Python framework for creating MCP clients/servers and working with the Model Context Protocol.
+
+https://gofastmcp.com/
+
+https://github.com/jlowin/fastmcp
+
+### httpx
+
+Http client for Python with Async support.
+
+https://www.python-httpx.org/
+
+https://github.com/encode/httpx/
