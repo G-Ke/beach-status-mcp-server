@@ -1,0 +1,10 @@
+[project]
+name = "MA Beach Agent MCP Server"
+version = "1.0.0"
+description = "MCP Server to provide context about MA Beaches and Beach Conditions."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.3.1",
+    "oxylabs>=2.0.0",
+]

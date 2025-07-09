@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+.venv
+.python-version
+
+# Dev Files
+*_response.json
+
+# Currently unused
+/resources
+/resources/*
+ol_config.py
